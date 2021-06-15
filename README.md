@@ -1,5 +1,10 @@
 # change-css-variables
 
+Links
+
+[Visit]
+----
+
 Blur Effect
 
 ![5ddgwu](https://user-images.githubusercontent.com/70858211/122100237-93e5e000-ce30-11eb-97a4-d879f3911a5b.gif)
@@ -15,7 +20,6 @@ Color Changing
 ![5ddhiq](https://user-images.githubusercontent.com/70858211/122100668-09ea4700-ce31-11eb-9007-48c14296ee15.gif)
 
 ---
-Links
-[Visit]
+
 
 
